@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
-        android:text="Vamos Rachar!"
+        android:text="Melhor Escolha"
         android:textColor="#FFFFFF"
         android:textSize="34sp"
         android:textStyle="bold"
